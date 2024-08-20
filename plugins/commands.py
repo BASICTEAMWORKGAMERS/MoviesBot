@@ -26,7 +26,7 @@ async def start(client, message):
             InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
             InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+            InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupadtes')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -45,7 +45,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -55,7 +55,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -121,7 +121,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -131,7 +131,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -170,7 +170,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
                 ],[
                     InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -180,7 +180,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
+                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/btwgupdates')
                 ],[
                     InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -534,7 +534,7 @@ async def start(client, message):
             )
             filetype = msg.media
             file = getattr(msg, filetype.value)
-            title = '@BackUP_Panda  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), file.file_name.split()))
+            title = '@btwgupdates  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), file.file_name.split()))
             size=get_size(file.file_size)
             f_caption = f"<code>{title}</code>"
             if CUSTOM_FILE_CAPTION:
@@ -558,7 +558,7 @@ async def start(client, message):
             pass
         return await message.reply('No such file exist.')
     files = files_[0]
-    title = '@BackUP_Panda  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))
+    title = '@btwgupdates  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))
     size=get_size(files.file_size)
     f_caption=files.caption
     if CUSTOM_FILE_CAPTION:
@@ -568,7 +568,7 @@ async def start(client, message):
             logger.exception(e)
             f_caption=f_caption
     if f_caption is None:
-        f_caption = f"@BackUP_Panda {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))}"
+        f_caption = f"@btwgupdates {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))}"
     if not await db.has_premium_access(message.from_user.id):
         if not await check_verification(client, message.from_user.id) and VERIFY == True:
             btn = [[
