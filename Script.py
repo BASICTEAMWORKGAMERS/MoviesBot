@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b><blockquote>⍟───[ Mʏ Dᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
 ‣ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Cyb3r_Panda'>𝚂𝚊𝚖𝚞𝚎𝚕~</a> 
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/btwg_basicteamworkgamers'>BTWG</a> 
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -194,13 +194,13 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :@btwgupdates {file_name}
 
 <b> Size ⚙️: {file_size} Team Dx ✨ 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-✨Need Help : @DxSupport_bot
+✨Need Help : @btwg_basicteamworkgamer
 
-✨All Branches : @BackUP_Panda</b>""" 
+✨All Branches : @btwgupdates</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -427,7 +427,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>@Sparkle_Autobot Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>Sam Rᴇsᴛᴀʀᴛᴇᴅ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
@@ -441,7 +441,7 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 Special Thanks To ❤️ Developer 😄-
 
--Dev [Owner Of This Bot ]<a href='https://t.me/Cyb3r_Panda'>𝚂𝚊𝚖𝚞𝚎𝚕~</a>
+-Dev [Owner Of This Bot ]<a href='https://t.me/btwg_basicteamworkgamer'>BTWG</a>
 """
 
     RENAME_TXT = """
