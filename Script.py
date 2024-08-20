@@ -441,7 +441,7 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 Special Thanks To ❤️ Developer 😄-
 
--Dev [Owner Of This Bot ]<a href='https://t.me/btwg_basicteamworkgamer'>BTWG</a>
+-Dev [Owner Of This Bot ]<a href='https://t.me/btwg_basicteamworkgamers'>BTWG</a>
 """
 
     RENAME_TXT = """
